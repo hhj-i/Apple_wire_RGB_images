@@ -1,5 +1,5 @@
 # Wire-identification  
-82 original acquired images are in Uncropped_images dir.  
+A total of 82 original acquired images are in Uncropped_images dir.  
 
 Part of images (~200) in cropped dataset are in Cropped_images dir.  
 
